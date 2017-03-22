@@ -1,18 +1,5 @@
-gjkfdgnbfd-----66666======gdkjfgbhngfkjh°ïºÍ¼¼ÄÜ=====
+gjkfdgnbfd-----66666======gdkjfgbhngfkjhå¸®å’ŒæŠ€èƒ½=====
 
-ÄÇ²¿·Ö¼´¿É²¥·Å
+é‚£éƒ¨åˆ†å³å¯æ’­æ”¾
 
-
-bfdkgn======
-
-
-Git is a version control system.
-Git is free software.
-
-====33333rr======= 2´ÎĞŞ¸ÄÁË ===66666tttt=====
-
-
-9999------====88000000
-
-
-Git has a mutable index called stage.-----------777777==,
+1111111111111110000000
